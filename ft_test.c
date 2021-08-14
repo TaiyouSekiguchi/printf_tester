@@ -6,7 +6,7 @@
 /*   By: tsekiguc <tsekiguc@student.42tokyo.jp      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/13 11:16:17 by tsekiguc          #+#    #+#             */
-/*   Updated: 2021/08/14 12:30:10 by tsekiguc         ###   ########.fr       */
+/*   Updated: 2021/08/14 13:53:23 by tsekiguc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@ void	ret_put(int ret)
 {
 	ft_printf("return is [%d]\n", ret);
 }
+
 
 int main(void)
 {
