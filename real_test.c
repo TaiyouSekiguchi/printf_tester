@@ -6,7 +6,7 @@
 /*   By: tsekiguc <tsekiguc@student.42tokyo.jp      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/13 11:16:17 by tsekiguc          #+#    #+#             */
-/*   Updated: 2021/08/14 12:29:57 by tsekiguc         ###   ########.fr       */
+/*   Updated: 2021/10/21 15:42:25 by tsekiguc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ void	ret_put(int ret)
 
 int main(void)
 {
-	int	ret;
+//	int	ret;
 
 	printf("********** Mandatory Part ***********\n");
 
